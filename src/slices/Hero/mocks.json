@@ -1,0 +1,29 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"first_name": {
+				"__TYPE__": "FieldContent",
+				"value": "bar",
+				"type": "Text"
+			},
+			"middle_name": {
+				"__TYPE__": "FieldContent",
+				"value": "rod",
+				"type": "Text"
+			},
+			"last_name": {
+				"__TYPE__": "FieldContent",
+				"value": "occur",
+				"type": "Text"
+			},
+			"tag_line": {
+				"__TYPE__": "FieldContent",
+				"value": "indicate",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
